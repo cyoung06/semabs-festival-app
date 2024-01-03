@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BSfestival</string>
+    <string name="preference_file_key">setting</string>
+    <string name="profile_name">BCFestival</string>
+
+    <string name="set_up_instruction">
+        The app is not set up as the device owner of this device. Use NfcProvisioning sample to set
+        up this app as the device owner of this device (This requires factory resetting the device).
+    </string>
+
+    <string name="label_global_settings">Global settings</string>
+    <string name="label_auto_time">Automatic date &amp; time</string>
+    <string name="label_auto_time_zone">Automatic time zone</string>
+
+    <string name="label_launcher">Home Launcher</string>
+    <string name="set_as_preferred">Set as preferred</string>
+    <string name="clear_preferred">Clear preferred</string>
+
+</resources>
